@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá, me chamo Alexandre. 
+### Sou um estudante de Engenharia de Software da Universidade de Brasilia apaixonado em tecnologia e inovação
+### Entusiasta de novas tendências no desenvolvimento de interfaces, possuo maior interesse pela área de frontend e design.
 
-<!--
-**AlexandreLJr/AlexandreLJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :mailbox_with_mail: Entre em contato: 
+<div> 
+  <a href = "ubc183@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alexandre-lema-02067923a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div align="center">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreLJr&show_icons=true&theme=swiftk&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreLJr&layout=compact&langs_count=7&theme=swift"/>
+</div>
